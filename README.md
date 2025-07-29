@@ -24,9 +24,6 @@ O objetivo deste projeto é permitir que o usuário insira nomes de amigos em um
 - CSS3  
 - JavaScript (ES6+)
 
----
-
-## 📂 Estrutura de pastas
 
 
 ⚠️ Possíveis problemas
