@@ -45,6 +45,8 @@ O objetivo deste projeto é permitir que o usuário insira nomes de amigos em um
 👨‍🏫 Sobre o Challenge
 
 Este projeto faz parte do Formação Front-End da trilha Oracle ONE | Alura, que tem como missão capacitar desenvolvedores iniciantes por meio de desafios práticos e guiados.
+
+
 🧑‍💻 Autor
 
 Desenvolvido por Vinicius Dias
