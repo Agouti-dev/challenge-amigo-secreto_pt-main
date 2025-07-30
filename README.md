@@ -50,4 +50,5 @@ Este projeto faz parte do Formação Front-End da trilha Oracle ONE | Alura, que
 🧑‍💻 Autor
 
 Desenvolvido por Vinicius Dias
+
 🔗 GitHub: Agouti-dev
